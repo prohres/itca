@@ -1,3 +1,3 @@
-output "vpc_id" {
-  value = "${aws_vpc.itca_vpc.id}"
+output "alb_dns_name" {
+  value = "${module.ecs.alb_dns_name}"
 }
