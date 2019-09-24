@@ -1,6 +1,6 @@
-# itca-kantor.com.ua
+# The final stage of courses
 
-At the final stage of my course, my tasks were to 
+At the final stage of courses, my task was to 
 automate the deployment of infrastructure for web
 applications using Cloud Computing (AWS) on the 
-Linux/Unix platform, administration and monitoring.
+Linux/Unix platform, administration, and monitoring.
